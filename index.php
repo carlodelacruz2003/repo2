@@ -20,7 +20,7 @@ $db = new operations();
 
                                          <div class = "card mt-5">
                                                 <div class = "card-header">
-                                                    <h2>Signggggggsssss</h2>
+                                                    <h2>carlo sign</h2>
                                            
                                                                     <input type="text" name="userName" class = "form-control mb-2"  placeholder = "User Name" required>
                                                                     <input type="email" name="userEmail" class = "form-control mb-2"  placeholder = "User Email"  required>
